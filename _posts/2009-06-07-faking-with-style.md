@@ -1,5 +1,5 @@
 ---
-layout: blog_layout
+layout: post
 img: distributed.JPG
 title: Faking with Style
 tags: graphics

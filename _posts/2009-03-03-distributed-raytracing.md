@@ -1,5 +1,5 @@
 ---
-layout: blog_layout
+layout: post
 img: snapple.JPG
 category: graphics
 title: Distributed ray tracing

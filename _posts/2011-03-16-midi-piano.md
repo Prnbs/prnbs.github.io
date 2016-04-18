@@ -1,5 +1,5 @@
 ---
-layout: blog_layout
+layout: post
 img: distributed.JPG
 title: Recreating finger motion from midi input
 category: projects

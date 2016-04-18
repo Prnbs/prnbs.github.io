@@ -1,5 +1,5 @@
 ---
-layout: blog_layout
+layout: post
 img: distributed.JPG
 category: projects
 title: Using NFA to evaluate regular expressions
