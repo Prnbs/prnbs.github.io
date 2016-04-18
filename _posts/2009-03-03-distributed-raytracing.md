@@ -5,7 +5,7 @@ category: graphics
 title: Distributed ray tracing
 tags: graphics
 summary: Gloss, soft shadows and motion blur using a cone of rays
-image: posts/distributed_rt.png
+image: distributed_rt.png
 ---
 
 Distributed ray tracing does not mean ray tracing on a distributed system. The term here means distributing the rays by an analytic function, say a cone. The original paper for this can be found [here.](http://artis.inrialpes.fr/Enseignement/TRSA/CookDistributed84.pdf)
