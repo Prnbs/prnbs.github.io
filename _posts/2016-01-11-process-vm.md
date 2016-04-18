@@ -5,7 +5,7 @@ category: projects
 title: Process VM for Python
 tags: algorithms
 summary: A VM that consumes python bytecode written in python.
-image:
+image: img/posts/process-vm.jpeg
 ---
 Virtual Machines are proxies for real or hypothetical computers. Their uses are varied, sometimes a VM might be needed to simulate hardware that does not yet exist (might never exist) or sometimes to run Windows on a Mac environment. These VMs are better known as system virtual machines and this is the last time we'll talk about them in this post.
 
