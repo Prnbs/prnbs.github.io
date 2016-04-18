@@ -5,7 +5,7 @@ category: projects
 title: Rendering shadow volumes in real time
 summary: Implementation of the shadow volume technique
 tags: graphics algorithms
-image: shadow_volume.Gif
+image: img/posts/shadow_volume.Gif
 ---
 
 ## Who needs shadows anyway?

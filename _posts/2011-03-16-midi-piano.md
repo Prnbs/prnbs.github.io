@@ -5,7 +5,7 @@ title: Recreating finger motion from midi input
 category: projects
 tags: graphics
 summary: Using MIDI signals to guess where to place the next fingers on a keyboard
-image: midi-piano.JPG
+image: img/posts/midi-piano.JPG
 ---
 
 ## Raison d'etre

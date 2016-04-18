@@ -5,7 +5,7 @@ category: projects
 title: San Francisco crime report
 summary: Creating a data story from existing data and backing it up with statistics
 tags: data_science
-image: sanfrancisco_crime.png
+image: img/posts/sanfrancisco_crime.png
 ---
 
 The data was collected from mode analytics. It shows the crimes reported to San Francisco Police Department from Nov 1 2013 to Jan 31st 2014. For every crime that was reported the data includes:

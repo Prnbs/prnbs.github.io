@@ -5,7 +5,7 @@ category: projects
 title: Kaggle, Predicting the west nile virus
 summary: Kaggle's competition to develop a model to predict presence of the west nile virus
 tags: data_science
-image: west_nile.png
+image: img/posts/west_nile.png
 ---
 This is my attempt at creating a model which could predict the presence of the west nile virus from a given dataset.
 The problem was originally presented as a kaggle competition running from April to June of 2015. The full description of the problem can be found [here](https://www.kaggle.com/c/predict-west-nile-virus).

@@ -5,7 +5,7 @@ category: projects
 title: Using NFA to evaluate regular expressions
 summary: An engine to evaluate regular expressions based on the power of non deterministic finite automata.
 tags: algorithms
-image: reg_ex.ico
+image: img/posts/reg_ex.ico
 ---
 
 Every one who dreams of calling himself a computer scientist ought to know a few things in his chosen profession. Regular expressions happen to be one of them, they appear deceptively simple when seen from the end of a good text editor, but if you went behind the curtains you'd find an intricate dance of some of the core concepts of computer science.
