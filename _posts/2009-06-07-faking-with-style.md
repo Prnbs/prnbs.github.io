@@ -5,7 +5,7 @@ title: Faking with Style
 tags: graphics
 category: projects
 summary: How to fake a snapple bottle using a few geometric primitives, a camera and renderman
-image: snapple.png
+image: posts/snapple.png
 ---
 
 ### This is faking...with style
