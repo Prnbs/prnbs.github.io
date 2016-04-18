@@ -41,12 +41,12 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Satyajit Sarangi
-  avatar: https://avatars3.githubusercontent.com/u/239816?v=3&s=460
+  name: Pranabesh Sinha
+  avatar: https://s.gravatar.com/avatar/6a36ddccce86cf662f12abf5e2c2bd0b?s=80
   bio: "I am a software engineer currently residing in Bay Area."
-  email: kernel.saty@gmail.com
-  disqus-shortname: ssarangi
-  twitter: ssarangi
+  email: pranabeshdotsinhaatgmaildotcom
+  disqus-shortname: prnbs
+  twitter: prnbs
   facebook: #username
   google:
     plus: #username
@@ -55,9 +55,8 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: ssarangi
-  stackoverflow: 1327837/ssarangi
-  linkedin: satyajitsarangi
+  github: prnbs
+  linkedin: pranabeshsinha
   xing: #username
   instagram: #username
   lastfm: #username
@@ -80,10 +79,10 @@ plugins_dir: _plugins
 # Forked from https://github.com/jglovier/resume-template/blob/gh-pages/_config.yml
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Satyajit Sarangi"
+resume_name:                    "Pranabesh Sinha"
 resume_title:                   "Software Engineer"
 resume_contact_email:
-  "satyajit.sarangi@gmail.com"
+  "pranabesh.sinha@gmail.com"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -110,7 +109,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   #resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://ssarangi.github.io"
+  resume_website_url:           "http://prnbs.github.io"
 
 # Design settings
 resume_theme:                   default
