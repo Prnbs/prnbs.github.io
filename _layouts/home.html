@@ -47,19 +47,19 @@
         <article-content style="width:800px">
         {% endif %}
           <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-          
+
           {% if post.tags %}
             <div class="tags small">
               {% for t in post.tags %}
                 {% assign tag_color_index = forloop.index0 | mod: 5 %}
                 {% assign tag_color = tag_colors[tag_color_index] %}
                 <!-- <a title href class={{ tag_color }}>{{ t }}</a> -->
-                <a title href="/tags/{{ t }}" class="color1">{{ t }}</a>
+                <p title href="/tags/{{ t }}" class="color1">{{ t }}</p>
               {% endfor %}
             </div>
           {% endif %}
-          
-          <p>{{ post.excerpt | strip_html | truncate: 200 }}</p>
+
+          <p>{{ post.summary | strip_html | truncate: 200 }}</p>
         </article-content>
       {% endif %}
     <hr>
