@@ -4,7 +4,7 @@ img: distributed.JPG
 category: projects
 title: San Francisco crime report
 summary: Creating a data story from existing data and backing it up with statistics
-tags: data_science
+tags: data_science maps
 image: img/posts/sanfrancisco_crime.png
 ---
 
