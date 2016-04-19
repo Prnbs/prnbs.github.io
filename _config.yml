@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Branch 'n' Bound
+title:            Follow the light
 locale:           en_US
 url:
 
@@ -44,7 +44,7 @@ owner:
   name: Pranabesh Sinha
   avatar: https://s.gravatar.com/avatar/6a36ddccce86cf662f12abf5e2c2bd0b?s=80
   bio: "I am a diehard Tintin enthusiast who likes to learn new things. If the apocalypse comes tomorrow I'd have to reinvent my life, and that kind of makes me yearn for it."
-  email: pranabeshdotsinhaatgmaildotcom
+  email: pranabesh.sinha@gmail.com
   disqus-shortname: prnbs
   twitter: prnbs
   facebook: #username
@@ -56,7 +56,7 @@ owner:
     ad-slot:
   bing-verify:
   github: prnbs
-  linkedin: pranabeshsinha
+  linkedin: pranabesh-sinha-b8266014
   xing: #username
   instagram: #username
   lastfm: #username
