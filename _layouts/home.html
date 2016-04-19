@@ -34,10 +34,11 @@
   </div>
   <div id="index">
     <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-    {% for post in site.posts limit:20 %}
     <article>
       <hr>
     </article>
+    {% for post in site.posts limit:20 %}
+
     <article>
 
       {% assign tag_colors = "color1|color2|color3|color4|color5" | split: "|" %}
