@@ -2,7 +2,7 @@
 layout: post
 img: distributed.JPG
 category: projects
-title: Kaggle: Predicting the west nile virus - Capstone project
+title: Kaggle, Predicting the west nile virus - Capstone project
 summary: Kaggle's competition to develop a model to predict presence of the west nile virus
 tags: data_science
 image: img/posts/west_nile.png
