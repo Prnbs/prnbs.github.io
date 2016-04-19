@@ -1,6 +1,6 @@
 // Global Values
 // $primary-color: #990000;
-$primary-color: #01679A;
+$primary-color: #990000;
 
 
 .name {
@@ -36,17 +36,17 @@ hr {
     line-height: 1;
     font-family: Arial;
     font-size: 24px;
-        
+
     ul {
         color: black;
     }
-    
+
     .name {
         text-transform: uppercase;
         font-size: 16px;
         font-weight: bold;
     }
-    
+
     p {
         color: black;
         font-size: 12px;
@@ -72,8 +72,8 @@ hr {
         display: block;
         clear: both;
         width: 100%;
-        
-        h1, h2, h3, h4, h5, h6 { 
+
+        h1, h2, h3, h4, h5, h6 {
             padding: 2px 0 0 0;
         }
 
@@ -93,7 +93,7 @@ hr {
             width: 50%;
         }
     }
-    
+
     .summary {
         margin: 10px 0 10px 0;
         text-align: left;
@@ -114,12 +114,12 @@ hr {
     font-family: Arial;
     color: black;
     margin: 0 0 0 0;
-    
+
     .header {
         font-size: 14px;
         font-weight: bold;
     }
-    
+
     .primary, .secondary {
         font-size: 12px;
     }
