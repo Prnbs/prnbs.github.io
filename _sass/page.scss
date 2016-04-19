@@ -270,7 +270,7 @@ $button-size: 1.5rem;
 	h3 {
 		margin: 0;
 		@include font-rem(28);
-		border-bottom: 1px solid lighten($black,0);
+		border-bottom: 1px solid lighten($black,100);
 	}
 	article {
 		width: 800px;
